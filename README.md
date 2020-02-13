@@ -1,2 +1,2 @@
 # plant-identification
-Identify species of plant from seedling images
+Identify species of plants from seedling images
