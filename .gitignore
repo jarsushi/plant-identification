@@ -1,0 +1,6 @@
+# Ignore the following folders
+data/
+venv/
+.ipynb_checkpoints/
+
+# Ignore the following files
